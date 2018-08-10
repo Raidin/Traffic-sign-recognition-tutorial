@@ -1,0 +1,8 @@
+*.pyc
+lmdb/*
+*.caffemodel
+*.solverstate
+models/lenet/snapshot/*
+models/resnet20/snapshot/*
+models/resnet32/snapshot/*
+label/*
