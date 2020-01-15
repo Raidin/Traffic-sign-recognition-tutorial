@@ -9,6 +9,7 @@
      * openCV 2.4.8++
      * CUDA 7.5++
      * cudnn4++
+     * caffe
    * Dataset
      * [GTSRB Homepage](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news)
      * Dataset Download
